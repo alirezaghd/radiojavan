@@ -1,0 +1,30 @@
+
+.card_hovar{
+ font-size: medium;
+}
+.card_hovar:hover{
+    transform: scale(1.03);
+    transition: transform 3s ease 0s;
+}
+
+audio {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    width: 300px;
+    border-radius: 0;
+}
+
+
+
+.list-table {
+    border-collapse: separate;
+    border-spacing: 0 12px;
+}
+
+.btn_size{
+    width: 40px !important;
+    padding: 5px !important;
+
+}
